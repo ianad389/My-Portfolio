@@ -11,6 +11,14 @@ I also added music to my page to make my site interactive for users. I used my f
         <source src="Just Listen.mp3 18-10-37-962.mp3" type="audio/mpeg">
     </audio>
 
+Code i used for this project is html and css
+
+I also link my email, github and linkedin
+https://github.com/ianad389
+
+
+## Screenshots
+![Screen Shot](/assets/Screen%20Shot%202022-08-15%20at%206.16.45%20PM.png "Optional Title")
 
 
 
